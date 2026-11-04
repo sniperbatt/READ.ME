@@ -22,11 +22,11 @@ while True:
         attempts += 1
         
         if guess < secret_number:
-            print("Too low! 📉 Try again.")
+            print("You suck")
         elif guess > secret_number:
-            print("Too high! 📈 Try again.")
+            print("You suk")
         else:
-            print(f"🎉 Correct! You found it in {attempts} attempts.")
+            print(f" Dang it took you {attempts} times to do it")
             break
     except ValueError:
         print("Please enter a valid number.")
