@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Neon Sketchpad</title>
+    <title>drawwww</title>
     <style>
         body { margin: 0; overflow: hidden; background: #050505; font-family: sans-serif; }
         canvas { display: block; }
